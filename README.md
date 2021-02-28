@@ -33,3 +33,11 @@ This is a differential equation of Euler type.
 Forsuch equations, certain powers ofSare known to be solutions (you just have tofigure out which power to use).
 Then linear combinations also are solutions.
 b.Now  consider  separation  of  variables  for  the  Black-Scholes  equation:  trysolutions of the formV(S,t) =A(t)B(S).  What ordinary differential equationsdo the functionsAandBsatisfy?  Can you solve those?
+
+
+
+The first homework:
+- discrete time models
+- stochastic models for the stock price
+- Ito calculus
+- European options.
